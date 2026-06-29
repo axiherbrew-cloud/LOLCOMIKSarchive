@@ -1,2 +1,2 @@
 # LOLCOMIKSarchive
-Welcome to the random comics I made for my free will! LOLCOMIKS is basically just a old project of mine so I'm bringing it back! QnA Coming never! 
+Back in grade 3 i used to have a comic called "LOLCOMICS" I couldn't really make a website for it so I'm bringing it back! I'm just revamping the arts and other stuff.. hope you enjoy! 

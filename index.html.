@@ -1,6 +1,37 @@
 <!DOCTYPE html>
 <html>
-<body style="background:red;color:white;">
-<h1>IT WORKED 🎉</h1>
+<head>
+    <title>LOLCOMIKS Archives</title>
+</head>
+
+<body style="background-color:#111;color:white;text-align:center;font-family:Arial;">
+
+    <img src="Screenshot_20260628_192003.jpeg" width="250">
+
+    <h1>LOLCOMIKS Archives</h1>
+
+    <p>Welcome to the official LOLCOMIKS archive!</p>
+
+    <hr>
+
+    <h2>📚 Comics</h2>
+
+    <p>Book 1: Drugmaster ✅</p>
+
+    <p>Book 2: Coming Soon...</p>
+
+    <hr>
+
+    <h2>👥 Main Characters</h2>
+
+    <p>🔵 Skitt</p>
+    <p>🔴 Joek</p>
+    <p>🧣 Tink</p>
+    <p>⚫ Squink</p>
+
+    <hr>
+
+    <p>Made by axis41</p>
+
 </body>
 </html>
